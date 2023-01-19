@@ -1,4 +1,4 @@
-name: Make nabu Recovery
+name: Make vienna Recovery
 
 on:
   workflow_dispatch:
